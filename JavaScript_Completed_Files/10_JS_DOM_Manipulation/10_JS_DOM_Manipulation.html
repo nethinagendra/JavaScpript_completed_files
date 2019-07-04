@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM Manipulation</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+    <a href="#">JS DOM Manipulation</a>
+</nav>
+
+<!-- Change Wish Message -->
+<h2>Click Event</h2>
+<section>
+    <h2 id="msg"></h2>
+    <button onclick="displayWishMsg('Good Morning','blue')">Good Morning</button>
+    <button onclick="displayWishMsg('Good Afternoon','purple')">Good Afternoon</button>
+    <button onclick="displayWishMsg('Good Evening','green')">Good Evening</button>
+    <button onclick="displayWishMsg('Good Night','black')">Good Night</button>
+</section>
+
+
+<!-- Select an option -->
+<h2>Change Event</h2>
+<section>
+    <form>
+        <select onchange="displayOptions()" id="select">
+            <option value="">Select a Language</option>
+            <option value="HTML">HTML</option>
+            <option value="CSS">CSS</option>
+            <option value="JavaScript">JavaScript</option>
+            <option value="JQuery">JQuery</option>
+            <option value="Bootstrap">Bootstrap</option>
+        </select>
+        <span id="option"></span>
+    </form>
+</section>
+
+<!-- Keyup Event -->
+<h2>Key up event</h2>
+<section>
+    <form>
+        <input onkeyup="displayText()" type="text" placeholder="Your Text" id="text-box">
+        <h2 id="text-msg"></h2>
+    </form>
+</section>
+
+
+<script src="10_script.js"></script>
+</body>
+</html>

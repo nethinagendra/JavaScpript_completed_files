@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="598c8a58-73cd-43ec-8df2-814deb681caf" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="10_script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/swathi/Offline_Classes-master/2PM_BATCH/10_JS_DOM_Manipulation/10_script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_JS_DOM_Manipulation/10_script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_JS_DOM_Manipulation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_JS_DOM_Manipulation/10_JS_DOM_Manipulation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>thestr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>theStr</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01_JS_Basics_JS/01_script.js" />
+        <option value="$USER_HOME$/Downloads/Offline_Classes-master/4PM_BATCH/05_script.js" />
+        <option value="$PROJECT_DIR$/05_JS_Conditional_Statements/05_script.js" />
+        <option value="$PROJECT_DIR$/07_JS_Arrays/07_script.js" />
+        <option value="$PROJECT_DIR$/02_JS_Variable_Declaration/02_script.js" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation/styles.css" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation/10_script.js" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation/10_JS_DOM_Manipulation.html" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation_ONE/10_JS_DOM_Manipulation.html" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation_ONE/10_script.js" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation_ONE/styles.css" />
+        <option value="$PROJECT_DIR$/15_JS_Calculator_App/script.js" />
+        <option value="$PROJECT_DIR$/09_JS_Math_Date_Objects/09_script.js" />
+        <option value="$PROJECT_DIR$/13_JS_Number_App/13_NumberApp.html" />
+        <option value="$PROJECT_DIR$/13_JS_Number_App/13_script.js" />
+        <option value="$PROJECT_DIR$/14_JS_TypingTester_App/14_script.js" />
+        <option value="$PROJECT_DIR$/14_JS_TypingTester_App/14_styles.css" />
+        <option value="$PROJECT_DIR$/14_JS_TypingTester_App/14_Mini_Project.html" />
+        <option value="$PROJECT_DIR$/12_JS_Form_Validation/12_styles.css" />
+        <option value="$PROJECT_DIR$/12_JS_Form_Validation/12_Form_Validation.html" />
+        <option value="$PROJECT_DIR$/12_JS_Form_Validation/12_script.js" />
+        <option value="$PROJECT_DIR$/16_JS_CallBack_Functions/16_app.js" />
+        <option value="$PROJECT_DIR$/17_JS_Promises/17_app.js" />
+        <option value="$PROJECT_DIR$/18_JS_Scopes_Closures/18_app.js" />
+        <option value="$PROJECT_DIR$/19_ES6_TemplateStrings/19_ES6_TemplateStrings.html" />
+        <option value="$PROJECT_DIR$/19_ES6_TemplateStrings/19_script.js" />
+        <option value="$PROJECT_DIR$/20_ES6_Let_Consts/20_script.js" />
+        <option value="$PROJECT_DIR$/21_ES6_For_Of_Loops/21_script.js" />
+        <option value="$PROJECT_DIR$/22_ES6_Lambda_Arrow_Functions/22_script.js" />
+        <option value="$PROJECT_DIR$/23_ES6_Destructuring/23_script.js" />
+        <option value="$PROJECT_DIR$/24_ES6_Spread_Operator/24_script.js" />
+        <option value="$PROJECT_DIR$/25_ES6_Classes/25_Script.js" />
+        <option value="$PROJECT_DIR$/25_ES6_Classes/25_inheritance.js" />
+        <option value="$PROJECT_DIR$/25_ES6_Classes/25_Classes.html" />
+        <option value="$PROJECT_DIR$/26_ES6_Collections/26_Script.js" />
+        <option value="$PROJECT_DIR$/03_JS_Data_Types/03_script.js" />
+        <option value="$PROJECT_DIR$/04_JS_Operators/04_script.js" />
+        <option value="$PROJECT_DIR$/06_JS_Objects/06_script.js" />
+        <option value="$PROJECT_DIR$/08_JS_Functions/08_script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaScript_Completed_Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript_Completed_Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript_Completed_Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript_Completed_Files" type="462c0819:PsiDirectoryNode" />
+              <item name="07_JS_Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript_Completed_Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript_Completed_Files" type="462c0819:PsiDirectoryNode" />
+              <item name="10_JS_DOM_Manipulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/swathi/Offline_Classes-master/2PM_BATCH" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\UI-Develop\JavaScript\JavaScript_Completed_Files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.21_script.js">
+    <configuration name="21_For_Of_Loops.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_Completed_Files/21_ES6_For_Of_Loops/21_For_Of_Loops.html" />
+    <configuration name="21_script.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="21_script.js" working-dir="$PROJECT_DIR$/21_ES6_For_Of_Loops" />
+    <list>
+      <item itemvalue="JavaScript Debug.21_For_Of_Loops.html" />
+      <item itemvalue="Node.js.21_script.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.21_script.js" />
+        <item itemvalue="JavaScript Debug.21_For_Of_Loops.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="598c8a58-73cd-43ec-8df2-814deb681caf" name="Default" comment="" />
+      <created>1556600543199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556600543199</updated>
+      <workItem from="1556600546277" duration="4742000" />
+      <workItem from="1556688809661" duration="4410000" />
+      <workItem from="1556965628013" duration="205000" />
+      <workItem from="1557120301312" duration="2831000" />
+      <workItem from="1557152997761" duration="2380000" />
+      <workItem from="1557289427996" duration="2514000" />
+      <workItem from="1557311354769" duration="875000" />
+      <workItem from="1557318739387" duration="2951000" />
+      <workItem from="1557544318133" duration="2931000" />
+      <workItem from="1557805186035" duration="270000" />
+      <workItem from="1557893819616" duration="4658000" />
+      <workItem from="1557917865651" duration="717000" />
+      <workItem from="1557926986628" duration="2256000" />
+      <workItem from="1558067695312" duration="2957000" />
+      <workItem from="1558073571063" duration="335000" />
+      <workItem from="1558090432985" duration="65000" />
+      <workItem from="1558669772697" duration="1077000" />
+      <workItem from="1558716649861" duration="1086000" />
+      <workItem from="1558766010700" duration="1074000" />
+      <workItem from="1558848949046" duration="3130000" />
+      <workItem from="1560015969902" duration="2099000" />
+      <workItem from="1560780003737" duration="419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43982000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18081991" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32913387" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18377976" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/Offline_Classes-master/4PM_BATCH/18_JS_Scopes_Closures/18_app.js" />
+    <entry file="file://$PROJECT_DIR$/18_JS_Scopes_Closures/18_Scopes_Closures.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_JS_CallBack_Functions/16_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_JS_Promises/17_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="92" column="27" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_JS_Scopes_Closures/18_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Offline_Classes-master/4PM_BATCH/19_ES6_TemplateStrings/19_script.js" />
+    <entry file="file://$PROJECT_DIR$/19_ES6_TemplateStrings/19_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Offline_Classes-master/4PM_BATCH/20_ES6_Let_Consts/20_script.js" />
+    <entry file="file://$USER_HOME$/Downloads/Offline_Classes-master/4PM_BATCH/21_ES6_For_Of_Loops/21_script.js" />
+    <entry file="file://$PROJECT_DIR$/20_ES6_Let_Consts/20_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_ES6_Let_Consts/20_Let_Const.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_ES6_TemplateStrings/19_ES6_TemplateStrings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_ES6_For_Of_Loops/21_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_ES6_For_Of_Loops/21_For_Of_Loops.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Offline_Classes-master/4PM_BATCH/22_ES6_Lambda_Arrow_Functions/22_script.js" />
+    <entry file="file://$PROJECT_DIR$/22_ES6_Lambda_Arrow_Functions/22_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_ES6_Lambda_Arrow_Functions/22_ES6_Lambda_Arrow_functions.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Offline_Classes-master/4PM_BATCH/23_ES6_Destructuring/23_script.js" />
+    <entry file="file://$USER_HOME$/Downloads/Dust_Bin-master/JavaScript_Completed_Files/24_ES6_Spread_Operator/24_script.js" />
+    <entry file="file://$PROJECT_DIR$/24_ES6_Spread_Operator/24_Spread_Operator.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Dust_Bin-master/JavaScript_Completed_Files/25_ES6_Classes/25_Script.js" />
+    <entry file="file://$PROJECT_DIR$/25_ES6_Classes/25_Script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Dust_Bin-master/JavaScript_Completed_Files/25_ES6_Classes/inheritance.js" />
+    <entry file="file://$USER_HOME$/Downloads/Dust_Bin-master/JavaScript_Completed_Files/26_ES6_Collections/26_Script.js" />
+    <entry file="file://$PROJECT_DIR$/26_ES6_Collections/26_Script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="94" column="16" lean-forward="true" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_ES6_Collections/26_Collections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_ES6_Classes/25_inheritance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_ES6_Classes/25_Classes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_ES6_Spread_Operator/24_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_ES6_Destructuring/23_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_ES6_Destructuring/23_Destructuring.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_JS_Basics_JS/01_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_JS_Basics_JS/01_Basics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JS_Variable_Declaration/02_Variables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_JS_Data_Types/03_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JS_Objects/06_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_JS_Conditional_Statements/05_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2054" />
+      </provider>
+    </entry>
+    <entry file="file://E:/N@GA/JavaScript_Completed_Files/08_JS_Functions/08_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2506" />
+      </provider>
+    </entry>
+    <entry file="file://E:/N@GA/JavaScript_Completed_Files/07_JS_Arrays/07_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="107" column="20" lean-forward="true" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_JS_Conditional_Statements/05_Conditional_Statements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_JS_Functions/08_JS_Functions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_JS_Functions/08_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="137" column="29" lean-forward="true" selection-start-line="137" selection-start-column="29" selection-end-line="137" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_JS_Operators/04_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="111" column="10" lean-forward="true" selection-start-line="111" selection-start-column="10" selection-end-line="111" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_JS_Operators/04_Operators.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_JS_Data_Types/03_Datatypes.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JS_Variable_Declaration/02_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_JS_Arrays/07_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_JS_Arrays/07_JS_Arrays.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JS_DOM_Manipulation/10_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JS_DOM_Manipulation/10_JS_DOM_Manipulation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/swathi/Offline_Classes-master/2PM_BATCH/10_JS_DOM_Manipulation/10_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
